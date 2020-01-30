@@ -1,0 +1,36 @@
+newmtl coral:coral_Material_u1_v1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd coral_u1_v1.png
+Ni 1.00
+Ks 0.30 0.30 0.30
+Ns 0.00
+newmtl coral_11:coral_11_Material_u1_v1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd coral_11_u1_v1.png
+Ni 1.00
+Ks 0.30 0.30 0.30
+Ns 0.00
+newmtl coral_13:coral_13_Material_u1_v1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd coral_13_u1_v1.png
+Ni 1.00
+Ks 0.30 0.30 0.30
+Ns 0.00
+newmtl coral_15:coral_15_Material_u1_v1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd coral_15_u1_v1.png
+Ni 1.00
+Ks 0.30 0.30 0.30
+Ns 0.00
